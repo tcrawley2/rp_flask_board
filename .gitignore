@@ -1,0 +1,4 @@
+.env
+venv
+board.sqlite
+board/__pycache__/
