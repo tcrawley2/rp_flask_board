@@ -1,5 +1,5 @@
 .env
-virtualenv
+myvenv
 venv
 board.sqlite
 board/__pycache__/
